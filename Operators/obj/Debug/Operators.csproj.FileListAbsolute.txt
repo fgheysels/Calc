@@ -1,0 +1,10 @@
+C:\Projects\TutorProjects\U2U UARCH\Calculator\Operators\bin\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\Operators\bin\Debug\Operators.pdb
+C:\Projects\TutorProjects\U2U UARCH\Calculator\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Projects\TutorProjects\U2U UARCH\Calculator\Operators\obj\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\Operators\obj\Debug\Operators.pdb
+C:\Projects\TutorProjects\U2U UARCH\VisitorCalculator\Operators\bin\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\VisitorCalculator\Operators\bin\Debug\Operators.pdb
+C:\Projects\TutorProjects\U2U UARCH\VisitorCalculator\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Projects\TutorProjects\U2U UARCH\VisitorCalculator\Operators\obj\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\VisitorCalculator\Operators\obj\Debug\Operators.pdb

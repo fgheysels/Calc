@@ -1,0 +1,7 @@
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\bin\Debug\ExtraOperators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\bin\Debug\ExtraOperators.pdb
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\bin\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\bin\Debug\Operators.pdb
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\obj\Debug\ExtraOperators.csprojResolveAssemblyReference.cache
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\obj\Debug\ExtraOperators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExtraOperators\obj\Debug\ExtraOperators.pdb

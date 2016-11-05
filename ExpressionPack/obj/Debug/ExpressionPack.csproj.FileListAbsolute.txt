@@ -1,0 +1,7 @@
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\bin\Debug\ExpressionPack.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\bin\Debug\ExpressionPack.pdb
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\bin\Debug\Operators.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\bin\Debug\Operators.pdb
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\obj\Debug\ExpressionPack.csprojResolveAssemblyReference.cache
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\obj\Debug\ExpressionPack.dll
+C:\Projects\TutorProjects\U2U UARCH\Calculator\ExpressionPack\obj\Debug\ExpressionPack.pdb
